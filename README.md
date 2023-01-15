@@ -1,2 +1,2 @@
-# example fabrica componont vue 2
-example of fabrica componont vue 2
+# example fabrica component vue 2
+example of fabrica component vue 2
