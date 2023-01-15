@@ -1,2 +1,2 @@
-# example_fabrica_componont_vue2
+# example fabrica componont vue 2
 example of fabrica componont vue 2
